@@ -1,1 +1,5 @@
 *.idea
+**annotation_tool/
+**Data/
+**yolov5/
+**wandb/

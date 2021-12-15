@@ -1,0 +1,9 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+
+path: ./Data/stage_1/yolo_no_test  # dataset root dir
+train: train # train images (relative to 'path')
+val: val  # val images (relative to 'path')
+
+# Classes
+nc: 1  # number of classes
+names: ['insect']  # class names
