@@ -3,3 +3,6 @@
 **Data/
 **yolov5/
 **wandb/
+**pytorch_image_models/
+**output/
+**.ipynb_checkpoints
